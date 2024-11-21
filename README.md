@@ -1,6 +1,11 @@
 # essential-apps 🐧
 Essential apps for Ubuntu Linux 
 
+## Command Line: Bash/Terminal
+App  | Description
+------------- | -------------
+xsel  | command-line tool to access X clipboard and paste text from terminal.
+
 ## Graphics
 
 App  | Description

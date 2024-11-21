@@ -1,5 +1,9 @@
 #!/bin/sh
 
+### Command Line: Bash/Terminal ###
+
+sudo apt-get install xsel
+
 ### Graphics ###
 
 sudo apt-get install gpick
