@@ -8,6 +8,11 @@ sudo apt-get install xsel
 
 sudo apt-get install gpick
 
+### Games ###
+
+# The old DOS Game: Prince of Persia
+sudo snap install sdlpop
+
 ### Office ###
 
 # Ghostwriter

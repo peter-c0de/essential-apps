@@ -12,6 +12,12 @@ App  | Description
 ------------- | -------------
 GPick  | Color picker utility
 
+## Games
+
+App  | Description
+------------- | -------------
+sdlpop  | The old Prince of Persia DOS Game
+
 ## Office
 
 App  | Description
