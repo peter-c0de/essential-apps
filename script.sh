@@ -3,6 +3,7 @@
 ### Command Line: Bash/Terminal ###
 
 sudo apt-get install xsel
+sudo apt-get install snapd
 
 ### Graphics ###
 
