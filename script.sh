@@ -17,8 +17,8 @@ sudo snap install sdlpop
 ### Office ###
 
 # Ghostwriter
-$ sudo add-apt-repository ppa:wereturtle/ppa
-$ sudo apt update
+sudo add-apt-repository ppa:wereturtle/ppa
+sudo apt update
 
 sudo apt-get install ghostwriter 
 
