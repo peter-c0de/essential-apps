@@ -25,6 +25,13 @@ App  | Description
 ------------- | -------------
 Ghostwriter  | MD Editor used with https://pandao.github.io/editor.md/en.html
 
+## Sound & Video
+
+App  | Description
+------------- | -------------
+SoundConverter | GNOME application to convert video/audio files into other formats
+
+
 ## Programming
 
 App  | Description

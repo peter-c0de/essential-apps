@@ -22,6 +22,9 @@ $ sudo apt update
 
 sudo apt-get install ghostwriter 
 
+### Sound & Video ###
+sudo apt-get install soundconverter
+
 ### Programming ###
 
 sudo apt-get install meld 
