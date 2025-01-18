@@ -25,6 +25,9 @@ sudo apt-get install ghostwriter
 ### Sound & Video ###
 sudo apt-get install soundconverter
 
+### Internet ###
+sudo apt-get install qbittorrent
+
 ### Programming ###
 
 sudo apt-get install meld 

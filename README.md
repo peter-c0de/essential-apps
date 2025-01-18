@@ -31,6 +31,11 @@ App  | Description
 ------------- | -------------
 SoundConverter | GNOME application to convert video/audio files into other formats
 
+## Internet
+
+App  | Description
+------------- | -------------
+qBittorrent | bittorrent client based on libtorrent-rasterbar with a Qt5 GUI
 
 ## Programming
 
