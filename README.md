@@ -37,6 +37,12 @@ App  | Description
 ------------- | -------------
 qBittorrent | bittorrent client based on libtorrent-rasterbar with a Qt5 GUI
 
+## System Tools
+
+App  | Description
+------------- | -------------
+Psensor | display graphs for monitoring hardware temperature
+
 ## Programming
 
 App  | Description

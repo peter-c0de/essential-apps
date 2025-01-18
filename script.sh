@@ -28,6 +28,9 @@ sudo apt-get install soundconverter
 ### Internet ###
 sudo apt-get install qbittorrent
 
+### System Tools ###
+sudo apt-get install psensor
+
 ### Programming ###
 
 sudo apt-get install meld 
