@@ -1,12 +1,13 @@
 #!/bin/sh
 
 ### Command Line: Bash/Terminal ###
-
 sudo apt-get install xsel
 sudo apt-get install snapd
 
-### Graphics ###
+### Accessories ###
+sudo apt-get install pluma
 
+### Graphics ###
 sudo apt-get install gpick
 
 ### Games ###

@@ -7,6 +7,12 @@ App  | Description
 xsel  | command-line tool to access X clipboard and paste text from terminal.
 snapd | Daemon and tooling that enable snap packages
 
+## Accessories
+
+App  | Description
+------------- | -------------
+pluma  | official text editor of the MATE desktop environment
+
 ## Graphics
 
 App  | Description
