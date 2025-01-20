@@ -24,6 +24,7 @@ sudo apt-get install ghostwriter
 
 ### Sound & Video ###
 sudo apt-get install soundconverter
+sudo apt-get install audacious
 
 ### Internet ###
 sudo apt-get install qbittorrent

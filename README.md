@@ -30,6 +30,7 @@ Ghostwriter  | MD Editor used with https://pandao.github.io/editor.md/en.html
 App  | Description
 ------------- | -------------
 SoundConverter | GNOME application to convert video/audio files into other formats
+audacious | small and fast audio player which supports lots of formats
 
 ## Internet
 
