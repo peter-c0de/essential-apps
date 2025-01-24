@@ -18,6 +18,7 @@ pluma  | official text editor of the MATE desktop environment
 App  | Description
 ------------- | -------------
 GPick  | Color picker utility
+kruler  | Screen ruler
 
 ## Games
 

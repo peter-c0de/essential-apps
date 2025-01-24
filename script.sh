@@ -9,6 +9,7 @@ sudo apt-get install pluma
 
 ### Graphics ###
 sudo apt-get install gpick
+sudo apt-get install kruler
 
 ### Games ###
 
