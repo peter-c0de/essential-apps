@@ -6,6 +6,7 @@ App  | Description
 ------------- | -------------
 xsel  | Command-line tool to access X clipboard and paste text from terminal.
 snapd | Daemon and tooling that enable snap packages
+ncdu | ncurses disk usage viewer
 
 ## Accessories
 
