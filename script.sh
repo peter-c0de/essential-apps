@@ -8,6 +8,9 @@ sudo apt-get install ncdu
 ### Accessories ###
 sudo apt-get install pluma
 
+### Education ###
+sudo apt-get install kwordquiz
+
 ### Graphics ###
 sudo apt-get install gpick
 sudo apt-get install kruler

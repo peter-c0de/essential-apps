@@ -14,6 +14,12 @@ App  | Description
 ------------- | -------------
 pluma  | Official text editor of the MATE desktop environment
 
+## Education
+
+App  | Description
+------------- | -------------
+kwordquiz  | flashcard learning program
+
 ## Graphics
 
 App  | Description
