@@ -7,6 +7,7 @@ sudo apt-get install ncdu
 
 ### Accessories ###
 sudo apt-get install pluma
+sudo apt-get install gnome-clocks
 
 ### Education ###
 sudo apt-get install kwordquiz
