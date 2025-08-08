@@ -48,6 +48,7 @@ Essential apps for Ubuntu Linux
 | -------------- | ----------------------------------------------------------------- |
 | SoundConverter | GNOME application to convert video/audio files into other formats |
 | audacious      | Small and fast audio player which supports lots of formats        |
+| pavucontrol    | PulseAudio Volume Control                                         |
 
 ## Internet
 
