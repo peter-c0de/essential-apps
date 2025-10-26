@@ -14,6 +14,7 @@ sudo apt-get install gnome-clocks
 sudo apt-get install kwordquiz
 
 ### Graphics ###
+sudo apt-get install shutter
 sudo apt-get install gpick
 sudo apt-get install kruler
 
