@@ -26,10 +26,11 @@ Essential apps for Ubuntu Linux
 
 ## Graphics
 
-| App    | Description                                                                      |
-| ------ | -------------------------------------------------------------------------------- |
-| GPick  | Color picker utility                                                             |
-| kruler | Screen ruler                                                                     |
+| App       | Description                                                                   |
+| --------- | ----------------------------------------------------------------------------- |
+| Shutter   | feature-rich screenshot program                                               |
+| GPick     | Color picker utility                                                          |
+| kruler    | Screen ruler                                                                  |
 
 ## Games
 
