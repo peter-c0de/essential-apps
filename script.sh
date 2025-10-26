@@ -4,6 +4,7 @@
 sudo apt-get install xsel
 sudo apt-get install snapd
 sudo apt-get install ncdu
+sudo apt-get install curl
 
 ### Accessories ###
 sudo apt-get install pluma
