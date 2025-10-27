@@ -1,0 +1,22 @@
+Steps:
+
+1. Right-click on the Firefox link and select copy
+
+2. Click on your desktop and select paste
+
+3. Right click on the icon that has just been created and select properties
+
+4. On the Basic tab fill command: firefox -no-remote -P "profile name"
+
+5. On the Permissions tab check: Execute
+
+
+###-----------------------------------------------------------------------------
+
+Link:
+
+about:profiles
+
+
+
+
