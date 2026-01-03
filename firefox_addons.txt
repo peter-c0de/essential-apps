@@ -28,6 +28,15 @@ https://addons.mozilla.org/en-US/firefox/addon/adblock-plus/
 
 ###-----------------------------------------------------------------------------
 
+Pesticide, for Firefox 
+
+by Daniel Oshiro
+
+Kill your css layout bugs! Pesticide is an open source CSS tool created by Adam Morse and available for download, forking on Github at http://pesticide.io/
+
+https://addons.mozilla.org/en-US/firefox/addon/pesticide-for-firefox/
+
+###-----------------------------------------------------------------------------
 
 
 
