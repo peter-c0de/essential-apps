@@ -48,11 +48,15 @@ https://addons.mozilla.org/en-US/firefox/addon/web-developer/
 
 ###-----------------------------------------------------------------------------
 
+Timer (alarm, timer and stopwatch) 
 
+by Karl
 
+Stylish timer combined with stopwatch and alarm for your browser.
 
+https://addons.mozilla.org/en-US/firefox/addon/timer-webext/
 
-
+###-----------------------------------------------------------------------------
 
 
 
