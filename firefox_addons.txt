@@ -18,6 +18,25 @@ https://addons.mozilla.org/en-US/firefox/addon/adblock-for-firefox/
 
 ###-----------------------------------------------------------------------------
 
+Adblock Plus 
+
+by Adblock Plus
+
+One of the most popular free ad blockers for Firefox. Block annoying ads on sites like Facebook, YouTube and all other websites. Adblock Plus blocks all annoying ads, and supports websites by not blocking unobtrusive ads by default (configurable).
+
+https://addons.mozilla.org/en-US/firefox/addon/adblock-plus/
+
+###-----------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
 
 
 
