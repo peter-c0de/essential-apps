@@ -8,6 +8,19 @@ https://addons.mozilla.org/en-US/firefox/addon/fireshot/
 
 ###-----------------------------------------------------------------------------
 
+AdBlock for Firefox 
+
+by AdBlock
+
+The most popular ad blocker for Chrome and Safari, now available for Firefox! Block all advertisements on all web pages, even Facebook, Youtube, and Hulu. Browse faster, too! Most ads aren't even downloaded at all, saving you time and bandwidth.
+
+https://addons.mozilla.org/en-US/firefox/addon/adblock-for-firefox/
+
+###-----------------------------------------------------------------------------
+
+
+
+
 
 
 
