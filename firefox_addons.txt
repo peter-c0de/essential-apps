@@ -38,11 +38,15 @@ https://addons.mozilla.org/en-US/firefox/addon/pesticide-for-firefox/
 
 ###-----------------------------------------------------------------------------
 
+Web Developer 
 
+by chrispederick
 
+The Web Developer extension adds various web developer tools to the browser.
 
+https://addons.mozilla.org/en-US/firefox/addon/web-developer/
 
-
+###-----------------------------------------------------------------------------
 
 
 
