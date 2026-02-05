@@ -68,9 +68,13 @@ https://addons.mozilla.org/en-US/firefox/addon/leechblock-ng/
 
 ###-----------------------------------------------------------------------------
 
+Momentum 
 
+by Momentum Dashboard
 
+Transform your browser into a beautifully designed tab that helps you feel calm, keep focus, and stay energized.
 
+https://addons.mozilla.org/en-US/firefox/addon/momentumdash/
 
 
 
