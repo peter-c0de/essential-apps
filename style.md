@@ -9,6 +9,9 @@ Added: Momentum
 
 ###
 
-
+VSCode Extensions
+Added: vscode-icons.pdf
+    
+###
 
 
