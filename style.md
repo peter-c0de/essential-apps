@@ -22,6 +22,11 @@ Added: vscode-icons.pdf
 Config
 Added: LibreOffice Writer Arabic Language Config.png
     
-    
+###
+
+Config/Mega.nz
+Added: Permissions.png
+
+
     
     
