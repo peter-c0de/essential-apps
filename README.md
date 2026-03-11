@@ -10,6 +10,7 @@ Essential apps for Ubuntu Linux
 | snapd | Daemon and tooling that enable snap packages                                      |
 | ncdu  | ncurses disk usage viewer                                                         |
 | curl  | command line tool for transferring data with URL syntax                           |
+| git   | fast, scalable, distributed revision control system                               |
 
 ## Accessories
 
