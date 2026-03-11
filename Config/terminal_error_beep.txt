@@ -1,0 +1,10 @@
+1. Open or Create (if it doesn't exist): ~/.inputrc
+nano ~/.inputrc
+
+2. Add:
+set bell-style none
+
+3. Run in Terminal:
+bind -f ~/.inputrc
+
+
