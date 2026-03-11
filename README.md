@@ -53,6 +53,7 @@ Essential apps for Ubuntu Linux
 | audacious      | Small and fast audio player which supports lots of formats               |
 | pavucontrol    | PulseAudio Volume Control                                                |
 | vlc            | multimedia player and streamer                                           |
+| vokoscreen-ng  | easy to use screencast creator                                           |
 
 ## Internet
 
