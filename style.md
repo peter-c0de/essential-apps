@@ -4,6 +4,11 @@ Modified: script.sh
 
 ###
 
+Firefox Profiles
+Added: Basic Tab Command.png
+
+###
+
 firefox_addons.txt
 Added: Momentum
 
