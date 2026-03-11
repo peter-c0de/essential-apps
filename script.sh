@@ -34,6 +34,7 @@ sudo apt-get install ghostwriter
 sudo apt-get install soundconverter
 sudo apt-get install audacious
 sudo apt-get install pavucontrol
+sudo apt-get install vlc
 
 ### Internet ###
 sudo apt-get install qbittorrent
