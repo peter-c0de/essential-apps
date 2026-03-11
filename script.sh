@@ -35,6 +35,7 @@ sudo apt-get install soundconverter
 sudo apt-get install audacious
 sudo apt-get install pavucontrol
 sudo apt-get install vlc
+sudo apt-get install vokoscreen-ng
 
 ### Internet ###
 sudo apt-get install qbittorrent
