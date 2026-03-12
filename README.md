@@ -4,13 +4,14 @@ Essential apps for Ubuntu Linux
 
 ## Command Line: Bash/Terminal
 
-| App   | Description                                                                       |
-| ----- | --------------------------------------------------------------------------------- |
-| xsel  | Command-line tool to access X clipboard and paste text from terminal.             |
-| snapd | Daemon and tooling that enable snap packages                                      |
-| ncdu  | ncurses disk usage viewer                                                         |
-| curl  | command line tool for transferring data with URL syntax                           |
-| git   | fast, scalable, distributed revision control system                               |
+| App         | Description                                                                       |
+| ----------- | --------------------------------------------------------------------------------- |
+| xsel        | Command-line tool to access X clipboard and paste text from terminal.             |
+| snapd       | Daemon and tooling that enable snap packages                                      |
+| ncdu        | ncurses disk usage viewer                                                         |
+| curl        | command line tool for transferring data with URL syntax                           |
+| git         | fast, scalable, distributed revision control system                               |
+| python3-pip | Python package installer                                                          |
 
 ## Accessories
 
