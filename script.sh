@@ -6,6 +6,7 @@ sudo apt-get install snapd
 sudo apt-get install ncdu
 sudo apt-get install curl
 sudo apt-get install git
+sudo apt-get install python3-pip
 
 ### Accessories ###
 sudo apt-get install pluma
