@@ -55,6 +55,7 @@ Essential apps for Ubuntu Linux
 | pavucontrol    | PulseAudio Volume Control                                                |
 | vlc            | multimedia player and streamer                                           |
 | vokoscreen-ng  | easy to use screencast creator                                           |
+| audacity       | fast, cross-platform audio editor                                        |
 
 ## Internet
 
