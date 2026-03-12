@@ -1,0 +1,21 @@
+Admin:
+###---
+
+1. Create a new user:
+$ sudo adduser new-user
+
+2. Add new-user to sudoers:
+$ sudo usermod -aG sudo new-user
+
+###-----------------------------------------------------------------------------
+
+new-user:
+###------
+
+1. Update
+$ sudo apt update
+
+2. Upgrade
+$ sudo apt upgrade
+
+
