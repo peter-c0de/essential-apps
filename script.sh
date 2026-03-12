@@ -37,6 +37,7 @@ sudo apt-get install audacious
 sudo apt-get install pavucontrol
 sudo apt-get install vlc
 sudo apt-get install vokoscreen-ng
+sudo apt-get install audacity
 
 ### Internet ###
 sudo apt-get install qbittorrent
