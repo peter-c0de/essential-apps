@@ -8,6 +8,7 @@ sudo apt-get install curl
 sudo apt-get install git
 sudo apt-get install python3-pip
 sudo apt-get install rar
+sudo apt-get install unrar
 
 ### Accessories ###
 sudo apt-get install pluma
