@@ -12,6 +12,7 @@ Essential apps for Ubuntu Linux
 | curl        | command line tool for transferring data with URL syntax                           |
 | git         | fast, scalable, distributed revision control system                               |
 | python3-pip | Python package installer                                                          |
+| rar         | Archiver for .rar files                                                           |
 
 ## Accessories
 
