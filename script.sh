@@ -7,6 +7,7 @@ sudo apt-get install ncdu
 sudo apt-get install curl
 sudo apt-get install git
 sudo apt-get install python3-pip
+sudo apt-get install rar
 
 ### Accessories ###
 sudo apt-get install pluma
