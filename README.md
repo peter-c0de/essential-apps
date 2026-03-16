@@ -13,6 +13,7 @@ Essential apps for Ubuntu Linux
 | git         | fast, scalable, distributed revision control system                               |
 | python3-pip | Python package installer                                                          |
 | rar         | Archiver for .rar files                                                           |
+| unrar       | Unarchiver for .rar files (non-free version)                                      |
 
 ## Accessories
 
