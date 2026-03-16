@@ -12,6 +12,7 @@ Essential apps for Ubuntu Linux
 | curl        | command line tool for transferring data with URL syntax                           |
 | git         | fast, scalable, distributed revision control system                               |
 | python3-pip | Python package installer                                                          |
+| python3-tk  | Tkinter - Writing Tk applications with Python 3.x                                 |
 | rar         | Archiver for .rar files                                                           |
 | unrar       | Unarchiver for .rar files (non-free version)                                      |
 
