@@ -31,8 +31,9 @@ sudo snap install sdlpop
 # Ghostwriter
 sudo add-apt-repository ppa:wereturtle/ppa
 sudo apt update
-
 sudo apt-get install ghostwriter 
+#
+sudo apt-get install pdfarranger
 
 ### Sound & Video ###
 sudo apt-get install soundconverter
