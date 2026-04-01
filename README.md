@@ -48,6 +48,7 @@ Essential apps for Ubuntu Linux
 | App         | Description                                                                 |
 | ----------- | --------------------------------------------------------------------------- |
 | Ghostwriter | MD Editor used with https://pandao.github.io/editor.md/en.html              |
+| pdfarranger | merge, split and re-arrange pages from PDF documents                        |
 
 ## Sound & Video
 
