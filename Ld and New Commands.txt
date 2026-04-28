@@ -1,2 +1,5 @@
-
+Install:
+###-----
+sudo apt-get install
+sudo apt install 
 
