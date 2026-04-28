@@ -15,6 +15,7 @@ Essential apps for Ubuntu Linux
 | python3-tk  | Tkinter - Writing Tk applications with Python 3.x                                 |
 | rar         | Archiver for .rar files                                                           |
 | unrar       | Unarchiver for .rar files (non-free version)                                      |
+| ffmpeg      | Tools for transcoding, streaming and playing of multimedia files                  |
 
 ## Accessories
 
