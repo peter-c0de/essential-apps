@@ -10,6 +10,7 @@ sudo apt-get install python3-pip
 sudo apt-get install python3-tk
 sudo apt-get install rar
 sudo apt-get install unrar
+sudo apt-get install ffmpeg
 
 ### Accessories ###
 sudo apt-get install pluma
