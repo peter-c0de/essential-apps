@@ -1,5 +1,11 @@
 Install:
 ###-----
-sudo apt-get install
-sudo apt install 
+sudo apt-get install app_name
+sudo apt install app_name
+
+Search:
+###----
+apt-get search app_name
+apt search app_name
+
 
