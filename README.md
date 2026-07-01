@@ -37,6 +37,7 @@ Essential apps for Ubuntu Linux
 | Shutter   | feature-rich screenshot program                                               |
 | GPick     | Color picker utility                                                          |
 | kruler    | Screen ruler                                                                  |
+| pinta     | Pinta is an easy to use image editor                                          |
 
 ## Games
 
