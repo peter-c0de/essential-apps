@@ -39,6 +39,7 @@ Essential apps for Ubuntu Linux
 | kruler    | Screen ruler                                                                  |
 | pinta     | Pinta is an easy to use image editor                                          |
 | drawing   | simple drawing application for the GNOME desktop                              |
+| lazpaint  | Image editor with raster and vector layers                                    |
 
 ## Games
 
