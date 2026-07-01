@@ -38,6 +38,7 @@ Essential apps for Ubuntu Linux
 | GPick     | Color picker utility                                                          |
 | kruler    | Screen ruler                                                                  |
 | pinta     | Pinta is an easy to use image editor                                          |
+| drawing   | simple drawing application for the GNOME desktop                              |
 
 ## Games
 
