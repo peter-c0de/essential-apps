@@ -23,6 +23,7 @@ sudo apt-get install kwordquiz
 sudo apt-get install shutter
 sudo apt-get install gpick
 sudo apt-get install kruler
+sudo snap install pinta
 
 ### Games ###
 # The old DOS Game: Prince of Persia
