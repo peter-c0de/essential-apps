@@ -24,6 +24,7 @@ sudo apt-get install shutter
 sudo apt-get install gpick
 sudo apt-get install kruler
 sudo snap install pinta
+sudo apt-get install drawing
 
 ### Games ###
 # The old DOS Game: Prince of Persia
