@@ -25,6 +25,7 @@ sudo apt-get install gpick
 sudo apt-get install kruler
 sudo snap install pinta
 sudo apt-get install drawing
+sudo snap install lazpaint
 
 ### Games ###
 # The old DOS Game: Prince of Persia
