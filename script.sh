@@ -15,6 +15,7 @@ sudo apt-get install ffmpeg
 ### Accessories ###
 sudo apt-get install pluma
 sudo apt-get install gnome-clocks
+sudo apt-get install font-manager
 
 ### Education ###
 sudo apt-get install kwordquiz
