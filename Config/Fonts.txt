@@ -1,0 +1,6 @@
+1. Create ".fonts" directory inside the home directory
+2. Copy all fonts inside .fonts directory
+3. Run this command without "sudo": fc-cache -f -v
+4. Optional: sudo apt-get install font-manager
+
+
