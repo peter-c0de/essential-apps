@@ -23,6 +23,7 @@ Essential apps for Ubuntu Linux
 | ------------ | -------------------------------------------------------------------------- |
 | pluma        | Official text editor of the MATE desktop environment                       |
 | gnome-clocks | Simple GNOME app with stopwatch, timer, and world clock support            |
+| font-manager | font management application for the GNOME desktop                          |
 
 ## Education
 
