@@ -16,6 +16,7 @@ Essential apps for Ubuntu Linux
 | rar         | Archiver for .rar files                                                           |
 | unrar       | Unarchiver for .rar files (non-free version)                                      |
 | ffmpeg      | Tools for transcoding, streaming and playing of multimedia files                  |
+| dmidecode   | SMBIOS/DMI table decoder                                                          |
 
 ## Accessories
 
