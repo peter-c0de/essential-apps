@@ -4,6 +4,12 @@ Modified: script.sh
 
 ###
 
+Programming:
+Added: Apps/antigravity_ide.txt
+Description: antigravity - Experience liftoff
+
+###
+
 Firefox Profiles
 Added: Basic Tab Command.png
 
