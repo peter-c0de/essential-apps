@@ -12,6 +12,7 @@ sudo apt-get install rar
 sudo apt-get install unrar
 sudo apt-get install ffmpeg
 sudo apt-get install dmidecode
+sudo apt-get install net-tools
 
 ### Accessories ###
 sudo apt-get install pluma
