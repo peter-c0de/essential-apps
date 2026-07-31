@@ -4,20 +4,21 @@ Essential apps for Ubuntu Linux
 
 ## Command Line: Bash/Terminal
 
-| App         | Description                                                                       |
-| ----------- | --------------------------------------------------------------------------------- |
-| xsel        | Command-line tool to access X clipboard and paste text from terminal.             |
-| snapd       | Daemon and tooling that enable snap packages                                      |
-| ncdu        | ncurses disk usage viewer                                                         |
-| curl        | command line tool for transferring data with URL syntax                           |
-| git         | fast, scalable, distributed revision control system                               |
-| python3-pip | Python package installer                                                          |
-| python3-tk  | Tkinter - Writing Tk applications with Python 3.x                                 |
-| rar         | Archiver for .rar files                                                           |
-| unrar       | Unarchiver for .rar files (non-free version)                                      |
-| ffmpeg      | Tools for transcoding, streaming and playing of multimedia files                  |
-| dmidecode   | SMBIOS/DMI table decoder                                                          |
-| net-tools   | NET-3 networking toolkit                                                          |
+| App               | Description                                                                       |
+| ----------------- | --------------------------------------------------------------------------------- |
+| xsel              | Command-line tool to access X clipboard and paste text from terminal.             |
+| snapd             | Daemon and tooling that enable snap packages                                      |
+| ncdu              | ncurses disk usage viewer                                                         |
+| curl              | command line tool for transferring data with URL syntax                           |
+| git               | fast, scalable, distributed revision control system                               |
+| python3-pip       | Python package installer                                                          |
+| python3-tk        | Tkinter - Writing Tk applications with Python 3.x                                 |
+| rar               | Archiver for .rar files                                                           |
+| unrar             | Unarchiver for .rar files (non-free version)                                      |
+| ffmpeg            | Tools for transcoding, streaming and playing of multimedia files                  |
+| dmidecode         | SMBIOS/DMI table decoder                                                          |
+| net-tools         | NET-3 networking toolkit                                                          |
+| openssh-server    | secure shell (SSH) server, for secure access from remote machines                 |
 
 ## Accessories
 
