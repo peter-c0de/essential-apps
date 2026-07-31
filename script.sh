@@ -13,6 +13,7 @@ sudo apt-get install unrar
 sudo apt-get install ffmpeg
 sudo apt-get install dmidecode
 sudo apt-get install net-tools
+sudo apt-get install openssh-server
 
 ### Accessories ###
 sudo apt-get install pluma
