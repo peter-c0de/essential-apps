@@ -17,6 +17,7 @@ Essential apps for Ubuntu Linux
 | unrar       | Unarchiver for .rar files (non-free version)                                      |
 | ffmpeg      | Tools for transcoding, streaming and playing of multimedia files                  |
 | dmidecode   | SMBIOS/DMI table decoder                                                          |
+| net-tools   | NET-3 networking toolkit                                                          |
 
 ## Accessories
 
