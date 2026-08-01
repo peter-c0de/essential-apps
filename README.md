@@ -19,6 +19,7 @@ Essential apps for Ubuntu Linux
 | dmidecode         | SMBIOS/DMI table decoder                                                          |
 | net-tools         | NET-3 networking toolkit                                                          |
 | openssh-server    | secure shell (SSH) server, for secure access from remote machines                 |
+| nmap              | The Network Mapper                                                                |
 
 ## Accessories
 
