@@ -14,6 +14,7 @@ sudo apt-get install ffmpeg
 sudo apt-get install dmidecode
 sudo apt-get install net-tools
 sudo apt-get install openssh-server
+sudo apt-get install nmap
 
 ### Accessories ###
 sudo apt-get install pluma
